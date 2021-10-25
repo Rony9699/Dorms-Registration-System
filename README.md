@@ -1,5 +1,6 @@
 # Dorms-Registration-System
-A JavaFX App to manage university dorms
+A JavaFX App to manage university dorms.
+
 This is a javafx fxml app, created in the context of a university project, the app is written in java applying the MVC design pattern, i used mysql as a DBMS, and the scenebuilder tool for the GUI.
 
 Functionality
